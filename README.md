@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Okan Karadağ</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey 🇹🇷</h3>
+<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/? username=karadagokan&label=Profile%20views&color=0e75b6&style=flat" alt="karadagokan" />
+  <img src="https://komarev.com/ghpvc/?username=karadagokan&label=Profile%20views&color=0e75b6&style=flat" alt="karadagokan" />
   <img src="https://img.shields.io/github/followers/karadagokan?label=Followers&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karadagokan&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="karadagokan" />
-  </a>
 </p>
 
 ---
@@ -20,7 +14,6 @@
 - 🌱 I'm currently learning **Large Language Models (LLM)** and AI integration
 - 💼 I'm a Full Stack Developer specializing in **Java Spring Boot** and **React**
 - 💬 Ask me about **Java, React, SQL, Microservices, and System Design**
-- 📫 Reach me at **okankrdag@gmail.com**
 - ⚡ Fun fact: I love solving complex problems with elegant solutions! 
 
 ---
@@ -39,12 +32,10 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original. svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain. svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </p>
 
@@ -62,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original. svg" alt="mongodb" width="40" height="40"/>
+  
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
@@ -86,13 +77,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karadagokan&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="karadagokan" />
-  <img width="48%" src="https://github-readme-streak-stats. herokuapp.com/?user=karadagokan&theme=tokyonight&hide_border=true" alt="karadagokan" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=karadagokan&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="karadagokan" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph? username=karadagokan&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=karadagokan&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -108,25 +93,5 @@
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karadagokan/karadagokan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karadagokan/karadagokan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karadagokan/karadagokan/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/karadagokan">karadagokan</a></i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
